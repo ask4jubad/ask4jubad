@@ -3,10 +3,15 @@
 ### Phd Candidate, QE Lab, University of Innsbruck
 
 👋 Hi, I’m @ask4jubad
+
 👀 I’m interested in general engineering and IT 
+
 🌱 I’m currently learning javascript, and relearning python😉. I am also currently exploring testing as a scientific exercise.
+
 💞️ I’m looking to collaborate on SDGs, startups, robotics, teaching and having fun.
-📫 How to reach me skype/facebook/linkedin/twitter/instagram: ask4jubad
+
+📫 How to reach me **Bold** skype/facebook/linkedin/twitter/instagram:
+ask4jubad
 
 You can use the [editor on GitHub](https://github.com/ask4jubad/ask4jubad.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
