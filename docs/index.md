@@ -2,11 +2,17 @@
 ## Jubril Adigun
 ### Phd Candidate, QE Lab, University of Innsbruck
 
+👋 Hi, I’m @ask4jubad
+👀 I’m interested in general engineering and IT 
+🌱 I’m currently learning javascript, and relearning python😉. I am also currently exploring testing as a scientific exercise.
+💞️ I’m looking to collaborate on SDGs, startups, robotics, teaching and having fun.
+📫 How to reach me skype/facebook/linkedin/twitter/instagram: ask4jubad
+
 You can use the [editor on GitHub](https://github.com/ask4jubad/ask4jubad.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About me
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -18,7 +24,7 @@ Syntax highlighted code block
 
 ## Education
 - University of Innsbruck
-  PhD, Computer Science
+PhD, Computer Science
 - University of Tartu
   MSE, Software Engineering
 - Tallinn University of Technology
