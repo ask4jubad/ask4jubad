@@ -18,11 +18,11 @@ Syntax highlighted code block
 
 ## Education
 - University of Innsbruck
+  PhD, Computer Science
 - University of Tartu
+  MSE, Software Engineering
 - Tallinn University of Technology
 
-- Bulleted
-- List
 
 1. Numbered
 2. List
