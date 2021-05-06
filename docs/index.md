@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Jubril Adigun
+### Phd Candidate, QE Lab, University of Innsbruck
 
 You can use the [editor on GitHub](https://github.com/ask4jubad/ask4jubad.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
