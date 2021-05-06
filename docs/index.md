@@ -3,6 +3,7 @@
 ### Phd Candidate, QE Lab, University of Innsbruck
 
 👋 Hi, I’m @ask4jubad
+![image](https://user-images.githubusercontent.com/47471992/117297561-0c936d00-ae7f-11eb-8b96-cc280fdf7ff1.png)
 
 👀 I’m interested in general engineering and IT 
 
