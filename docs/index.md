@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://www.bing.com/images/search?view=detailV2&ccid=%2bszyNhmH&id=676BF3CE025B37757DAFE2DE52F4E81671A19B5C&thid=OIP.-szyNhmH5KntMLn2bHd3MgHaE7&mediaurl=https%3a%2f%2fmedia.voog.com%2f0000%2f0041%2f6055%2fphotos%2fwithpresident_large.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fRfaccf2361987e4a9ed30b9f66c777732%3frik%3dXJuhcRbo9FLe4g%26pid%3dImgRaw&exph=852&expw=1280&q=jubril+adigun&simid=608035475054793364&ck=BED0560BC5351C4CFA393E76286AC432&selectedIndex=4&FORM=IRPRST)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
