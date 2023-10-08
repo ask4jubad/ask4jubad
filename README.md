@@ -8,3 +8,5 @@
 ask4jubad/ask4jubad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![Ask4jubad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ask4jubad)](https://github.com/ask4jubad/github-readme-stats)
