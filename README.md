@@ -13,3 +13,20 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ask4jubad&hide_progress=false)
+
+
+file1 = open('name.txt')
+file2 = open('name2.txt', 'w')
+reader = file1.readlines()
+gather = []
+reader.sort(reverse=True)
+for i in reader:
+    p = list(i)
+    p.sort(reverse=True)
+    rev2 = ''
+    for j in p:
+        if j != '\n':
+            rev2 += j
+
+    file2.write(rev2)
+    file2.write('\n')
